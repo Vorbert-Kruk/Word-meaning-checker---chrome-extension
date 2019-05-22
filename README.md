@@ -1,4 +1,4 @@
-### Rozszerzenie to pozwala na sprawdzenie znaczenia danych wyrazów/zwrotów, wyświetlając ich tłumaczenie w języku polskim lub ich definicje, gdy są one już zapisane w języku polskim.
+## Rozszerzenie to pozwala na sprawdzenie znaczenia danych wyrazów/zwrotów, wyświetlając ich tłumaczenie w języku polskim lub ich definicje, gdy są one już zapisane w języku polskim.
 
 ### Przykład:
 
